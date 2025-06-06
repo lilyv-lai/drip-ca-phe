@@ -1,5 +1,3 @@
-import type { Metadata } from "next";
-import { lato } from "./fonts";
 import "./globals.css";
 import Navbar from '../components/navbar'
 import Footer from '../components/footer';

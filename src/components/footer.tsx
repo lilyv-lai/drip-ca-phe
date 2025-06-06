@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import { lato } from '../app/fonts'
 
 export default function Footer() {
