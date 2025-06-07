@@ -8,8 +8,8 @@ export default function Navbar() {
         <Link href="/" className="text-xl font-bold">Drip Ca Phe</Link>
         <div className="flex items-center space-x-6">
           <Link href="/menu" className={`${lato.className} font-bold hover:underline`}>MENU</Link>
-          <Link href="/about" className={`${lato.className} font-bold hover:underline`}>CONTACT</Link>
-          <Link href="/contact" className={`${lato.className} font-bold hover:underline`}>FAQ</Link>
+          <Link href="/contact" className={`${lato.className} font-bold hover:underline`}>CONTACT</Link>
+          <Link href="/faq" className={`${lato.className} font-bold hover:underline`}>FAQ</Link>
         </div>
         <div className="space-x-4">
           <Link href="/menu" className={`${lato.className} rounded-full border-2 border-white bg-[#43403A] text-white px-5 py-2 font-bold hover:underline transition-colors`}>ORDER ONLINE</Link>
